@@ -1,10 +1,12 @@
 <h1> Hello 👋🏻, My Name is Mann and Welcome to My Github </h1>
 <h4>"In the world of computer science, the only limit is your imagination." - Unknown </h4>
 
+<p>
 - 🧠 I’m currently learning HTML, CSS, JavaScript, SQL
 - 💬 Ask me about anything
 - 📫 How to reach me: mannhp1103@gmail.com
 - ⚡ Experience in: Python, C#, Java, C/C++
+</p>
 
 <!--
 **MannPate130/MannPate130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
