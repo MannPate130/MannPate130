@@ -1,5 +1,5 @@
 <h1> Hello 👋🏻, My Name is Mann and Welcome to My Github </h1>
-<h4>"Coding is not just about what you can create, but what you can empower others to create." - Unknown </h4>
+<h4>"In the world of computer science, the only limit is your imagination." - Unknown </h4>
 
 
 
