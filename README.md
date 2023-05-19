@@ -1,4 +1,6 @@
 <h1> Hello 👋🏻, My Name is Mann and Welcome to My Github </h1>
+<hr>
+<h3>"Coding is not just about what you can create, but what you can empower others to create." - Unknown </h3>
 
 
 
