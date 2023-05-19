@@ -1,4 +1,4 @@
-<h1> Hello 👋🏻, My Name is Mann and Welcome to My Github </h1>
+<h1> Hello 👋🏻, My Name is Mann and Welcome to My GitHub </h1>
 <h3>"In the world of computer science, the only limit is your imagination." - Unknown </h3>
 
 
