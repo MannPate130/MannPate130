@@ -5,7 +5,7 @@
 - 🧠 I’m currently learning HTML, CSS, JavaScript, SQL
 - 💬 Ask me about anything
 - 📫 How to reach me: mannhp1103@gmail.com
-- ⚡ Experience in: Python, C#, Java, C/C++
+- ⚡ Experience in: Python, C#, Java, C/C++, Excel VBA
 
 
 <!--
